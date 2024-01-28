@@ -1,3 +1,7 @@
+# KNowledge Requirement
+- Familiar with ```Group BY```, ```EXISTS```,  ```UNION```
+- Familiar with ```Nested Query``` ```Sub Queries``` ```Correlated Query```,
+- Fammiliar with **OLAP Operators**: ```Group BY``` +  ```CUBE```,  ```ROLLUP```,  ```GROUPING SETS```
 # Movie-Online-Rentals-Sales
 Analyzing the business performance of MovieNow: an online movie rental company
 
