@@ -1,4 +1,4 @@
-## MovieNow data structure
+### MovieNow data structure
 These tables capture information about customers, movies, movie rentals, actors, and actor-movie relationships in the MovieNow database. The MovieNow database structure includes:
 - **Customers Table:**
   - Columns: `customer_id`, `name`, `country`, `gender`, `date_of_birth`, `account_creation_date`.
