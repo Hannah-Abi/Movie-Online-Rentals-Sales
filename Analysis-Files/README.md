@@ -9,9 +9,5 @@ SQL is a powerful language for working with relational databases, and many data 
 - Using ```ipython-sql``` to install SQL kernal 
 ### Step 2:  Run the following file in order:
 1.  [EDA-in-SQL.ipynb](./EDA-in-SQL.ipynb): using simple SQL queries to extract and aggregated data from its database.
-- KPIs (Key Performance Indicators) aid companies in defining and monitoring success.
-- Revenue, calculated as the sum of prices for rented movies, is a key indicator for MovieNow```s success.
-- In customer relations management, ```customer satisfaction``` is quantified by the average movie rating.
-- ```Customer engagement``` is measured by the number of active customers within a specific timeframe.
-- The course teaches how to define KPIs, extract data, and monitor it over time for informed decision-making.
-2.  [EDA-in-SQL.ipynb](./EDA-in-SQL.ipynb)
+2.  [Customer-insight.ipynb](./Customer-insight.ipynb)]: More complex queries with GROUP BY, LEFT JOIN and sub-queries are used to gain insight into customer preferences.
+3. [
