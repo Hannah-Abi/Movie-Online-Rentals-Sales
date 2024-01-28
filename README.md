@@ -1,4 +1,4 @@
-# KNowledge Requirement
+# Knowledge Required
 - Familiar with ```Group BY```, ```EXISTS```,  ```UNION```
 - Familiar with ```Nested Query``` ```Sub Queries``` ```Correlated Query```,
 - Fammiliar with **OLAP Operators**: ```Group BY``` +  ```CUBE```,  ```ROLLUP```,  ```GROUPING SETS```
