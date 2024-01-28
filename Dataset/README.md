@@ -14,7 +14,7 @@ Objectives of data driven decision making
   - Longterm development of revenue for long term investments.
 
 ## MovieNow data structure
-The MovieNow database structure includes:
+These tables capture information about customers, movies, movie rentals, actors, and actor-movie relationships in the MovieNow database. The MovieNow database structure includes:
 - **Customers Table:**
   - Columns: `customer_id`, `name`, `country`, `gender`, `date_of_birth`, `account_creation_date`.
 - **Movies Table:**
@@ -25,4 +25,3 @@ The MovieNow database structure includes:
   - Columns: `actor_id`, `name`, `year_of_birth`, `nationality`, `gender`.
 - **Actsin Table:**
   - Columns: `actsin_id`, `movie_id`, `actor_id`.
-These tables capture information about customers, movies, movie rentals, actors, and actor-movie relationships in the MovieNow database.
