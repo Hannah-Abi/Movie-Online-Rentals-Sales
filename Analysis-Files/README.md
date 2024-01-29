@@ -9,6 +9,6 @@ SQL is a powerful language for working with relational databases, and many data 
 - Using ```ipython-sql``` to install SQL kernal 
 ### Step 2:  Run the following file in order:
 1.  [EDA-in-SQL.ipynb](./EDA-in-SQL.ipynb): using simple SQL queries to extract and aggregated data from its database.
-2.  [Customer-insight.ipynb](./Customer-insight.ipynb)]: More complex queries with GROUP BY, LEFT JOIN and sub-queries are used to gain insight into customer preferences.
+2.  [Customer-insight.ipynb](./Customer-insight.ipynb): More complex queries with ```GROUP BY```, ```LEFT JOIN``` and sub-queries are used to gain insight into customer preferences.
 3. [Categorisation.ipynb](./Categorisation.ipynb): The concept of nested queries and correlated nested queries is introduced and the functions EXISTS and UNION are used to categorize customers, movies, actors, and more.
 4. [OLAP-visualisation.ipynb](./OLAP-visualisation.ipynb): Aggregate data for a better overview
